@@ -48,4 +48,5 @@ cv.imshow('Flip', flip)
 cropped = img[200:400, 300:400]
 cv.imshow('Cropped',cropped)
 
+
 cv.waitKey(0)

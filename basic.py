@@ -31,4 +31,5 @@ cv.imshow('Resized', resized)
 croped = img[50:200, 200:400]
 cv.imshow('Cropped', croped)
 
+
 cv.waitKey(0)

@@ -28,5 +28,6 @@ while True:
 capture.release()
 cv.destroyAllWindows()
 
+
 # resized_img = rescaleFrame(img)
 # cv.imshow('Image', resized_img)

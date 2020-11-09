@@ -25,4 +25,5 @@ print(f'{len(contours)} contour(s) found')
 cv.drawContours(blank, contours, -1, (0,0,255), 1)
 cv.imshow('Contours Drawn', blank)
 
+
 cv.waitKey(0)
